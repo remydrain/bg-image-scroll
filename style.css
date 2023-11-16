@@ -9,7 +9,7 @@ body {
     background: url('./bg.jpg');
     background-position: center;
     background-attachment: fixed;
-    background-size: cover;
+    background-size: 100%;
 }
 
 .container {
